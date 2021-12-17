@@ -18,7 +18,7 @@ _**Rewards for Smart Contracts and Blockchain**_
 
 | Bug severity  | Reward | 
 | ------------- | ------------- | 
-| Critical | $50,000 | 
+| Critical | $100,000 | 
 | High | $30,000 | 
 | Medium | $10,000 | 
 | Low | $3,000 | 
