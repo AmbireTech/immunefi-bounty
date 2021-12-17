@@ -37,7 +37,7 @@ All High and Critical Smart Contract bug reports require a PoC and a suggestion 
 | https://etherscan.io/address/0x460fad03099f67391d84c9cc0ea7aa2457969cea | Smart Contract - Batcher| 
 
 \
-All smart contracts of Ambire can be found at https://github.com/AmbireTech/adex-protocol-eth. However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.
+All smart contracts of Ambire can be found at https://github.com/AmbireTech/wallet/tree/main/contracts. However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.
 
 Please note that the following vulnerabilities are **not eligible for a reward**: https://github.com/AmbireTech/code4rena#known-tradeoffs.
 
